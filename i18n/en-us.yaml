@@ -23,6 +23,9 @@
 - id: "global.about"
   translation: "About"
 
+- id: "global.privacy"
+  translation: "Privacy"
+
 - id: "global.author_picture"
   translation: "Author's picture"
 

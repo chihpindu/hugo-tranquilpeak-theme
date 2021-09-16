@@ -23,6 +23,9 @@
 - id: "global.about"
   translation: "關於"
 
+- id: "global.privacy"
+  translation: "隱私權政策"
+
 - id: "global.author_picture"
   translation: "作者的圖片"
 
