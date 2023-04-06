@@ -14,6 +14,9 @@
 - id: "global.tag"
   translation: "标签"
 
+- id: "global.series"
+  translation: "系列"
+
 - id: "global.archives"
   translation: "归档"
 

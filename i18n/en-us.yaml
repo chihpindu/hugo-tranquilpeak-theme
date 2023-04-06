@@ -14,6 +14,9 @@
 - id: "global.tag"
   translation: "Tag"
 
+- id: "global.series"
+  translation: "Series"
+
 - id: "global.archives"
   translation: "Archives"
 
